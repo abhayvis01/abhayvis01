@@ -173,7 +173,7 @@ Educational platform for managing learning resources.
 
 # 🤝 Connect With Me
 
-📧 Email: [your-email@example.com](mailto:abhayvis01@gmail.com)
+📧 Email: [abhayvis01@gmail.com](mailto:abhayvis01@gmail.com)
 
 💼 LinkedIn: https://linkedin.com/in/abhayvis01
 
