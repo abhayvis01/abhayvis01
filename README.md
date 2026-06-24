@@ -173,9 +173,9 @@ Educational platform for managing learning resources.
 
 # 🤝 Connect With Me
 
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
+📧 Email: [your-email@example.com](mailto:abhayvis01@gmail.com)
 
-💼 LinkedIn: https://linkedin.com/in/your-linkedin
+💼 LinkedIn: https://linkedin.com/in/abhayvis01
 
 🌐 GitHub: https://github.com/abhayvis01
 
